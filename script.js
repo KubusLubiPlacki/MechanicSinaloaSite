@@ -1,5 +1,4 @@
-/* adres email: sinaloacarrepair@gmail.com
- hasło: nie powiem
+/*sinaloacarrepair@gmail.com
 */
 let firstName=document.getElementById("firstname");
 let secondName=document.getElementById("secondname");
